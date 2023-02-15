@@ -1,4 +1,4 @@
-# Employee-Future-Prediction
+# Employee-Attrition-Prediction
 **ABSTRACT:**
         A company's HR department is attempting to predict if some clients will leave the business during the following two years. This is an interesting analysis that can help future firms create procedures and make choices to retain their most valuable personnel.To clean and preprocess the dataset.This analysis includes exploratory data analysis and to understand the relationship between different attributes and to visualize them.To implement the various machine learning models likes logistic regression, Naive bayes Classifier on Gaussian Distribution, Naive bayes Classifier on Bernoulli Distribution, Naive bayes Classifier on Multinomial Distribution, Decision Tree classifier, Random Forest Classifier, Support Vector Machine, K-Nearest Neighbor, K-Means Clustering, Stochastic Gradient Descent, Gradient Boosting and Artificial Neural Networks. To Compare and visualize the Accuracy scores of those above implemented models.
         
